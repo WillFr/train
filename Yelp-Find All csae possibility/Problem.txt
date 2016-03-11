@@ -1,0 +1,1 @@
+Given a string, print all the possibility of casing
