@@ -1,0 +1,4 @@
+design a system that will give you the top 5 product sold at any point on a huge website like amazon
+what about top 5 per category 
+what about top 5 per category and location
+what about top 5 per category location and brand
