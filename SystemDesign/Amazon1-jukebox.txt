@@ -1,0 +1,6 @@
+desing a jukebox system for a restaurant 
+- customer can pay at the table and select a song
+- the song is queued up and get played
+
+Details:
+- if the customer leaves before the song is played e could not have to pay and the queue would be purged
