@@ -1,0 +1,14 @@
+434. Number of Segments in a String   Add to List QuestionEditorial Solution  My Submissions
+Total Accepted: 6952
+Total Submissions: 18227
+Difficulty: Easy
+Contributors: love_FDU_llp
+Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.
+
+Please note that the string does not contain any non-printable characters.
+
+Example:
+
+Input: "Hello, my name is John"
+Output: 5
+Hide Tags String
