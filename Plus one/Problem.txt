@@ -1,0 +1,15 @@
+66. Plus One Add to List
+Description  Submission  Solutions
+Total Accepted: 153646
+Total Submissions: 410495
+Difficulty: Easy
+Contributors: Admin
+Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.
+
+You may assume the integer do not contain any leading zero, except the number 0 itself.
+
+The digits are stored such that the most significant digit is at the head of the list.
+
+Hide Company Tags Google
+Hide Tags Array Math
+Hide Similar Problems (M) Multiply Strings (E) Add Binary (M) Plus One Linked List
