@@ -1,0 +1,11 @@
+50. Pow(x, n) Add to List
+DescriptionSubmissionsSolutions
+Total Accepted: 138516
+Total Submissions: 516685
+Difficulty: Medium
+Contributors: Admin
+Implement pow(x, n).
+
+Hide Company Tags LinkedIn Google Bloomberg Facebook
+Hide Tags Binary Search Math
+Hide Similar Problems (E) Sqrt(x) (M) Super Pow
