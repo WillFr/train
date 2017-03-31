@@ -1,0 +1,13 @@
+344. Reverse String Add to List
+DescriptionSubmissionsSolutions
+Total Accepted: 144047
+Total Submissions: 247572
+Difficulty: Easy
+Contributor: LeetCode
+Write a function that takes a string as input and returns the string reversed.
+
+Example:
+Given s = "hello", return "olleh".
+
+Hide Tags Two Pointers String
+Hide Similar Problems (E) Reverse Vowels of a String (E) Reverse String II
