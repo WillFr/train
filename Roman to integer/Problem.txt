@@ -1,0 +1,14 @@
+13. Roman to Integer Add to List
+DescriptionHintsSubmissionsSolutions
+Total Accepted: 143709
+Total Submissions: 320733
+Difficulty: Easy
+Contributor: LeetCode
+Given a roman numeral, convert it to an integer.
+
+Input is guaranteed to be within the range from 1 to 3999.
+
+Hide Company Tags Microsoft Bloomberg Uber Facebook Yahoo
+Hide Tags Math String
+Hide Similar Problems (M) Integer to Roman
+Have you met this question in a real interview? Yes  
